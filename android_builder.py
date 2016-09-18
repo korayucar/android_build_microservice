@@ -1,6 +1,6 @@
- My first web app! By <strong>hamza</strong>.root@ed6a0fc2e0b1:/# c
-bash: c: command not found
-root@ed6a0fc2e0b1:/# cat bott.py
+#My first web app! By <strong>hamza</strong>.root@ed6a0fc2e0b1:/# c
+#bash: c: command not found
+#root@ed6a0fc2e0b1:/# cat bott.py
 import os
 from bottle import route, run, template
 
